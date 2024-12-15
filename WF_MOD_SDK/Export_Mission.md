@@ -53,5 +53,5 @@
 
 На этом импорт карты в игру завершён. Можете играть на ней или продолжить редактировать дальше, изучать создание карт более подробнее и добавлять на неё новые функции.
 
-Официальная статья CryEngine 3 про файлы уровня: https://docs.cryengine.com/display/SDKDOC4/Level+Files
+Официальная статья CryEngine 3 про файлы уровня: [https://docs.cryengine.com/display/SDKDOC4/Level+Files](https://www.cryengine.com/docs/static/engines/cryengine-3/categories/1638401/pages/1605643)
 
