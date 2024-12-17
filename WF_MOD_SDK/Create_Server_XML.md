@@ -57,7 +57,7 @@
 
 ```name``` - путь до файла \[level.pak\] в папке \[Levels\] (например: ```name="pvp/tdm_farm"```);
 
-### Ветка ```TimeOfDay```:
+### Ветка ```TimeOfDay``` (необязательна):
 
 ```file``` - путь до TOD-файла в клиенте (например: ```file="Libs/TimeOfDay/tdm_farm_sunset.tod"```);
 
