@@ -13,7 +13,7 @@
 ## Создание файла для PvP-карты
 
 Общий вид:
-```
+```xml
 <mission name="" time_of_day="" game_mode="" game_mode_cfg="" uid="" release_mission="" clan_war_mission="" only_clan_war_mission="" channels="" rating_game_mission="" event_mission="">
   <Basemap name=""/>
   <TimeOfDay file="" start="" end="" speed="" />
@@ -116,7 +116,7 @@
 Для PvE создание данного файла немного отличается, в нём также присутствуют те же параметры, что и в файле для PvP, но их здесь я повторять не буду, распишу только отличия.
 
 Общий вид:
-```
+```xml
 <mission name="" time_of_day="" game_mode="pve" game_mode_cfg="pve_mode.cfg" uid="" release_mission="" clan_war_mission="" only_clan_war_mission="" difficulty="" mission_type="" comics_intro="">
   <Basemap name=""/>
   <TimeOfDay file="" start="" end="" speed="" />
