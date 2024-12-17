@@ -103,11 +103,11 @@
 
 ```full_kills``` - максимальное количество убийств в бою, которое означает, что, если за всю игру убийств будет больше или равно этому значению, то награда не будет уменьшена в пропорции между значениями min_kills и full_kills;
 
-### Ветка ```KillDependency```:
+### Ветка ```Objectives```:
 
 В данном случае остаётся пустой.
 
-### Ветка ```KillDependency```:
+### Ветка ```Teleports```:
 
 В данном случае остаётся пустой.
 
@@ -131,7 +131,7 @@
     <Objective type="" timelimit=""/>
   </Objectives>
   <Teleports>
-    <Teleport start_sublevel_id="0" start_teleport="chernobyl_act1_end" finish_sublevel_id="1" finish_teleport="chernobyl_act2_start"/>
+    <Teleport start_sublevel_id="" start_teleport="" finish_sublevel_id="" finish_teleport=""/>
   </Teleports>
 </mission>
 ```
@@ -193,9 +193,3 @@
 # Подведение итогов
 
 На этом создание XML-файла инструкции запуска уровня сервером Warface завершено, данный файл вы можете назвать как угодно, но лучше всего назвать его также, как и ваш уровень (если у вас миссия, то название уровня миссии и её сложность). Данный файл должен находиться по пути: \[/libs/missions/\]. Теперь ваша карта или миссия готова для полноценного использования в игре!
-
-
-
-
-
-
