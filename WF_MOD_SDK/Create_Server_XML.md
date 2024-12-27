@@ -128,7 +128,8 @@
     <Sublevel id="" name="" mission_flow="" score="" difficulty="" difficulty_cfg="" win_pool="" lose_pool="" draw_pool="" score_pool=""/>
   </Sublevels>
   <Objectives>
-    <Objective type="" timelimit=""/>
+    <Objective type="primary" timelimit=""/>
+    <Objective type="secondary" completion_score="" id=""/>
   </Objectives>
   <Teleports>
     <Teleport start_sublevel_id="" start_teleport="" finish_sublevel_id="" finish_teleport=""/>
@@ -174,9 +175,13 @@
 
 #### Ветка ```Objective```:
 
-```type``` - тип цели миссии ("primary" - основная цель; других типов замечено не было);
+```type``` - тип цели миссии ("primary" - основная цель; "secondary" - второстепенная цель;);
 
 ```timelimit``` - ограничение по времени в секундах, означающее, сколько максимально может длиться миссия, при истечении времени миссия завершится поражением;
+
+```completion_score``` - количество очков, которое необходимо для выполнения данной цели;
+
+```id``` - id цели, которая указывается в файле \[/libs/config/secondaryobjectivesdesc.xml\];
 
 ### Ветка ```Teleports```:
 
