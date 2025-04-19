@@ -32,7 +32,7 @@
 
 ```-mx0``` - степень сжатия (в данном случае степень сжатия равна 0, при этом значении файлы запаковываются без сжатия);
 
-```-r``` - рекурсировать подкаталоги (лично я точно не знаю, но так надо);
+```-r``` - рекурсировать подкаталоги (просто знайте, что так надо);
 
 ```Name_Archive.pak``` - это желаемое название вашего будущего архива (для CryEngine и Warface обязательно расширение \[.pak\]);
 
@@ -153,6 +153,6 @@
 
 ## Несколько статей про систему CryPak в CryEngine
 
-[https://docs.cryengine.com/display/SDKDOC4/CryPak](https://www.cryengine.com/docs/static/engines/cryengine-3/categories/1638401/pages/1605659)
+https://www.cryengine.com/docs/static/engines/cryengine-3/categories/1638401/pages/1605659
 
-[https://docs.cryengine.com/display/SDKDOC4/Accessing+Files+with+CryPak](https://www.cryengine.com/docs/static/engines/cryengine-3/categories/1638401/pages/15010579)
+https://www.cryengine.com/docs/static/engines/cryengine-3/categories/1638401/pages/15010579
