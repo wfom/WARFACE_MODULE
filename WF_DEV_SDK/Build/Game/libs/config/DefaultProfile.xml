@@ -1,0 +1,7 @@
+<profile version="47">
+	<actionmap name="player">
+		<action name="att_underbarrel" onPress="1" keyboard="8" />
+		<action name="att_scope" onPress="1" keyboard="9" />
+		<action name="att_muzzle" onPress="1" keyboard="0" />
+	</actionmap>
+</profile>
