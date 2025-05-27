@@ -1,1 +1,6 @@
-
+<Material MtlFlags="524288" Shader="Terrain.Layer" GenMask="200000001" StringGenMask="%ALLOW_POM%TEMP_TERRAIN" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.0019634159,0.0019634159,0.0019634159" Emissive="0,0,0" Opacity="1">
+	<Textures>
+		<Texture Map="Diffuse" File="textures/defaults/defaultnouvs.dds"/>
+	</Textures>
+	<PublicParams FresnelPower="4" DetailTextureStrength="1" FresnelScale="1" FresnelBias="1" IndirectColor="0.25,0.25,0.25"/>
+</Material>
