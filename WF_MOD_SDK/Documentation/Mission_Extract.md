@@ -47,4 +47,4 @@
 
 Документация по CryLevelConvert: https://github.com/prophetl33t/CryLevelConvert
 
-Документация по Mission_Extract: https://github.com/wfom/Mission-Extract
+Документация по Mission_Extract: https://github.com/ocwf-module/Mission-Extract
